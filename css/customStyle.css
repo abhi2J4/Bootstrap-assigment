@@ -1,0 +1,7 @@
+.big-banner{
+    background-image:url("../images/bgg.jpeg");
+    background-size: 100%;
+}
+.fresh-content{
+    background-image: linear-gradient(to bottom right, red, yellow);
+}
